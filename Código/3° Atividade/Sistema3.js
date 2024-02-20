@@ -8,5 +8,5 @@ var password = prompt("Insira sua senha: ");
 if (validarSenha(String(password))) {
     console.log("Senha válida");
 } else {
-    console.log("Senha inválida")
+    console.log("Senha inválida");
 }
